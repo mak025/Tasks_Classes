@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\bin\Debug\net8.0\PlasticFanFuc.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\bin\Debug\net8.0\PlasticFanFuc.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\bin\Debug\net8.0\PlasticFanFuc.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\bin\Debug\net8.0\PlasticFanFuc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\bin\Debug\net8.0\PlasticFanFuc.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\refint\PlasticFanFuc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\PlasticFanFuc.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFanFuc\PlasticFanFuc\obj\Debug\net8.0\ref\PlasticFanFuc.dll
