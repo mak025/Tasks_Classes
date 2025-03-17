@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\bin\Debug\net8.0\speedtest.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\bin\Debug\net8.0\speedtest.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\bin\Debug\net8.0\speedtest.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\bin\Debug\net8.0\speedtest.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\bin\Debug\net8.0\speedtest.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\refint\speedtest.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\speedtest.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\speedtest\speedtest\obj\Debug\net8.0\ref\speedtest.dll
