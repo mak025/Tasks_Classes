@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\bin\Debug\net8.0\McDonalds.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\bin\Debug\net8.0\McDonalds.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\bin\Debug\net8.0\McDonalds.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\bin\Debug\net8.0\McDonalds.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\bin\Debug\net8.0\McDonalds.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\refint\McDonalds.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\McDonalds.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\McDonalds\McDonalds\obj\Debug\net8.0\ref\McDonalds.dll

@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\bin\Debug\net8.0\DeckOfCards.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\bin\Debug\net8.0\DeckOfCards.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\bin\Debug\net8.0\DeckOfCards.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\bin\Debug\net8.0\DeckOfCards.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\bin\Debug\net8.0\DeckOfCards.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\refint\DeckOfCards.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\DeckOfCards.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\DeckOfCards\DeckOfCards\obj\Debug\net8.0\ref\DeckOfCards.dll
