@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\bin\Debug\net8.0\BlueBook.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\bin\Debug\net8.0\BlueBook.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\bin\Debug\net8.0\BlueBook.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\bin\Debug\net8.0\BlueBook.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\bin\Debug\net8.0\BlueBook.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\refint\BlueBook.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\BlueBook.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\BlueBook\BlueBook\obj\Debug\net8.0\ref\BlueBook.dll
